@@ -1,0 +1,2 @@
+"0","# create a list of all the available files in UCI HAR Dataset (including subfolders)"
+"0","files_list_full <- list.files(""01 Data/UCI HAR Dataset"", recursive = TRUE, full.names = TRUE)  "
